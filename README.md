@@ -1,6 +1,6 @@
 ## Log Analysis Task
 
-# 1 Crated log file
+# 1 Created log file
     create_log_file.py file contains code for how i created log file
 # 2 Main file
     main.py file containts:
